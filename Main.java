@@ -6,7 +6,7 @@ public class Main {
            int result = 10 /0;
            System.out.println(result);
        }catch (ArithmeticException e) {
-           System.out.println("It can't divide by zero");
+           System.out.println("This project has been changed of Branch");
        }
     }
 }
